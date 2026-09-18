@@ -1,0 +1,7 @@
+interface:
+  display_name: "Plain English"
+  short_description: "Add a simple final-answer recap"
+  default_prompt: "Use $plain-english to add a simple recap at the end of the final answer."
+
+policy:
+  allow_implicit_invocation: false

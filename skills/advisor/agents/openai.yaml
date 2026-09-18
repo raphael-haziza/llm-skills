@@ -1,0 +1,7 @@
+interface:
+  display_name: "Advisor"
+  short_description: "Benchmark-based model consultation"
+  default_prompt: "Use $advisor to choose a model and ask one focused question using benchmark and cost evidence."
+
+policy:
+  allow_implicit_invocation: false

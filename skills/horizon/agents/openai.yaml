@@ -1,0 +1,4 @@
+interface:
+  display_name: "Horizon"
+  short_description: "Keep long-running work coherent"
+  default_prompt: "Use $horizon to preserve the objective, evidence, and next actions across a long-running task."

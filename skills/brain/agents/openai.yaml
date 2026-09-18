@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Memory"
+  short_description: "Persist durable project state with Letta"
+  default_prompt: "Use $brain to resume or save meaningful project state with Letta."
